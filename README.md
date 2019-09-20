@@ -11,7 +11,7 @@ Please contribute to this repository to help it make better. Any change like new
 * If you like eclipse instead of intellij install eclipse https://eclipse.org/downloads/
 
 <h3> Set up your desktop </h3>
-* Pull the git repository. Go to command line and type git clone https://github.com/mission-peace/interview.git
+* Pull the git repository. 
 * Go to root directory of checked out project.
 * Run ./gradlew idea to generate idea related classes
 * Fire up intellij. Go to Open. Go to git repo folder and open interview.ipr . On file menu go to project structure. Update language level support to 8
