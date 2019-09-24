@@ -3,8 +3,6 @@ package com.interview.array;
 import java.math.BigInteger;
 
 /**
- * Date 04/24/2016
- * @author Tushar Roy
  *
  * Additive number is a string whose digits can form additive sequence.
  * A valid additive sequence should contain at least three numbers.
